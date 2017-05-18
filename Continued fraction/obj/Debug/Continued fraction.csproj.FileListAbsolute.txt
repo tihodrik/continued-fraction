@@ -1,1 +1,9 @@
 C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\bin\Debug\Continued fraction.exe.config
+C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\bin\Debug\Continued fraction.exe
+C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\bin\Debug\Continued fraction.pdb
+C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\obj\Debug\Continued fraction.csprojResolveAssemblyReference.cache
+C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\obj\Debug\Continued_fraction.Form1.resources
+C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\obj\Debug\Continued_fraction.Properties.Resources.resources
+C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\obj\Debug\Continued fraction.csproj.GenerateResource.Cache
+C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\obj\Debug\Continued fraction.exe
+C:\Users\Darya Tikhomirova\OneDrive - Тверской государственный университет\М-44, М-45\Криптография\Сontinued fraction\Continued fraction\obj\Debug\Continued fraction.pdb
