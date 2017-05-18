@@ -718,7 +718,15 @@ namespace Continued_fraction
             return result;
         }
 
-
+        public override string ToString()
+        {
+            StringBuilder SB = new StringBuilder();
+            for (int i = Count - 1; i >= 0; i--)
+            {
+                SB.Append(number[i]);
+            }
+            return SB.ToString();
+        }
     }
 
 }
