@@ -480,9 +480,10 @@ namespace Continued_fraction
                     count++;
                     tmp.Insert(0, tmpA[tmpA.Count - count]);
                 }
+                result.Insert(0, 0);
                 if (tmp >= tmpB)
                 {
-                    result.Insert(0, 0);
+                    
                     while (tmp >= tmpB)
                     {
                         result[0]++;
@@ -583,13 +584,17 @@ namespace Continued_fraction
             }
 
             int count = tmpA.Count;
-
+            bool f = false;
             for (int i = 0; i < count; i++)
             {
                 if (tmpA[count - i - 1] < tmpB[count - i - 1])
                 {
                     return true;
-                }                
+                }
+                if (tmpA[count - i - 1] > tmpB[count - i - 1])
+                {
+                    return false;
+                }
             }
 
             return false;
@@ -718,7 +723,15 @@ namespace Continued_fraction
             return result;
         }
 
-
+        public override string ToString()
+        {
+            StringBuilder SB = new StringBuilder();
+            for (int i = Count - 1; i >= 0; i--)
+            {
+                SB.Append(number[i]);
+            }
+            return SB.ToString();
+        }
     }
 
 }
