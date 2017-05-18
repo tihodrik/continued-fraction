@@ -83,9 +83,10 @@
             // result
             // 
             this.result.Location = new System.Drawing.Point(15, 173);
+            this.result.Multiline = true;
             this.result.Name = "result";
             this.result.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.result.Size = new System.Drawing.Size(353, 20);
+            this.result.Size = new System.Drawing.Size(353, 198);
             this.result.TabIndex = 5;
             // 
             // button1
@@ -111,7 +112,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(377, 205);
+            this.ClientSize = new System.Drawing.Size(377, 383);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.result);
